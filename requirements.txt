@@ -1,0 +1,15 @@
+Flask
+Flask-SQLAlchemy
+Flask-WTF
+pandas
+openpyxl
+Werkzeug
+Jinja2
+SQLAlchemy
+WTForms
+python-dotenv
+Flask-Migrate
+gunicorn
+email-validator
+plotly
+xlsxwriter
